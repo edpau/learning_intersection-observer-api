@@ -2,6 +2,8 @@
 - [Video: Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [Blog: JavaScript Intersection Observer Ultimate Guide](https://blog.webdevsimplified.com/2022-01/intersection-observer/)
 - [Docs: Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- [GitHub URL](https://github.com/edpau/learning_intersection-observer-api)
+- [Live Site URL](https://edpau.github.io/learning_intersection-observer-api/)
 
 <img src="./screenshot.png" width="300"/>
 
