@@ -2,15 +2,18 @@
 - [Video: Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [Blog: JavaScript Intersection Observer Ultimate Guide](https://blog.webdevsimplified.com/2022-01/intersection-observer/)
 - [Docs: Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
+### Screenshot
+<img src="./screenshot.png" width="300"/>
+
+### Links
 - [GitHub URL](https://github.com/edpau/learning_intersection-observer-api)
 - [Live Site URL](https://edpau.github.io/learning_intersection-observer-api/)
 
-<img src="./screenshot.png" width="300"/>
-
 ## Summary 
-This video show us
+This video shows us
 1. How to add animation to card that enter and leave the screen (root)
-2. infinite scroll, add new card with lazy loading when we scroll to the bottom, infinitely add new card when we about to see the last card 
+2. Infinite scroll, add new card with lazy loading when we scroll to the bottom, infinitely add new card when we about to see the last card 
 
 ## Use case 
 - scroll animations
